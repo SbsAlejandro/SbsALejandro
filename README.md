@@ -1,12 +1,12 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://aristi.dev">SbsAlejandro</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/Kx3L4RK.jpeg">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+[![GitHub](https://img.shields.io/badge/GitHub-tsolutions197--commits-181717?style=for-the-badge&logo=github)](https://github.com/tsolutions197-commits)
+[![Facebook](https://img.shields.io/badge/Facebook-Tech%20Solutions%20JS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18XqBKyWaB/)
+[![Instagram](https://img.shields.io/badge/Instagram-techsolucionesjs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techsolucionesjs?igsh=MTBjN3kwZHVrbWNvdw==)
+[![TikTok](https://img.shields.io/badge/TikTok-sjtechsolutions-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@sjtechsolutions?_r=1&_t=ZP-94utf2debaZ)
 
 ## Sobre mi
 
