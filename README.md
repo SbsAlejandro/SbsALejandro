@@ -3,11 +3,23 @@
 </div>
 <img src="https://i.imgur.com/FYuEXBI.png">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tsolutions197--commits-181717?style=for-the-badge&logo=github)](https://github.com/tsolutions197-commits)
-[![Facebook](https://img.shields.io/badge/Facebook-Tech%20Solutions%20JS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18XqBKyWaB/)
-[![Instagram](https://img.shields.io/badge/Instagram-techsolucionesjs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techsolucionesjs?igsh=MTBjN3kwZHVrbWNvdw==)
-[![TikTok](https://img.shields.io/badge/TikTok-sjtechsolutions-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@sjtechsolutions?_r=1&_t=ZP-94utf2debaZ)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+58%20424%202743174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584242743174)
+<div align="center">
+  <a href="https://github.com/tsolutions197-commits">
+    <img src="https://img.shields.io/badge/-%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/share/18XqBKyWaB/">
+    <img src="https://img.shields.io/badge/-%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/techsolucionesjs?igsh=MTBjN3kwZHVrbWNvdw==">
+    <img src="https://img.shields.io/badge/-%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@sjtechsolutions?_r=1&_t=ZP-94utf2debaZ">
+    <img src="https://img.shields.io/badge/-%20-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://wa.me/584242743174">
+    <img src="https://img.shields.io/badge/-%20-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
 
 ## Sobre mi
 
