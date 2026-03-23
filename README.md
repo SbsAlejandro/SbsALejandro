@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Tech%20Solutions%20JS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18XqBKyWaB/)
 [![Instagram](https://img.shields.io/badge/Instagram-techsolucionesjs-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/techsolucionesjs?igsh=MTBjN3kwZHVrbWNvdw==)
 [![TikTok](https://img.shields.io/badge/TikTok-sjtechsolutions-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@sjtechsolutions?_r=1&_t=ZP-94utf2debaZ)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584242743174)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+58%20424%202743174-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584242743174)
 
 ## Sobre mi
 
