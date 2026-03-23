@@ -115,5 +115,5 @@
 ### ⚙️ &nbsp;My Programming Languages
 
 <p align="center">
-  <img src="https://imgur.com/undefined" alt="My Programming Languages">
+  <img src="https://i.imgur.com/8hvYq2E.png" alt="My Programming Languages">
 </p>
